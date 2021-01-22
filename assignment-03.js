@@ -1,3 +1,5 @@
+// This is My Code Link: https://github.com/mustafizurrahma/assignment-03
+
 // System to convert kilometers to meters via JavaScript 
 
 function kilomiterTomiters(meter) {
@@ -54,7 +56,7 @@ console.log(totalCost);
 
 
 //Mega Friend List
-var myFriendList = ['mustafizur', 'rayek', 'monyr', 'arafat', 'sohan', 'rakibul', 'anis', 'nayem', 'shuvoKhan'];
+var myFriendList = ['Mustafizur', 'Rayek', 'Monyr', 'Arafat', 'Sohan', 'Rakibul', 'Anis', 'Nayem', 'Shuvo'];
 var frinds = '';
 
 function megaFriend(frinds) {
