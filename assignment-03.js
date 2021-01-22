@@ -29,7 +29,7 @@ console.log(totalBudget);
 
 // Hotel Er Total Cost
 
-function hotelTotalCost(perDay) {
+function totalCost(perDay) {
     var dailyCost = 0;
 
     if (perDay <= 10) {
@@ -49,7 +49,7 @@ function hotelTotalCost(perDay) {
     return dailyCost;
 }
 
-var totalCost = hotelTotalCost(50);
+var totalCost = totalCost(50);
 console.log(totalCost);
 
 // Hotel Er Total Cost
